@@ -32,5 +32,6 @@ host: 0.0.0.0
 safe: false
 
 remote_theme : sharu725/online-cv
-url : "https://greenpainter.github.io
+url : "https://greenpainter.github.io"
 baseurl : ""
+
